@@ -1,0 +1,3 @@
+/Users/kimlong/Coding/ocpp/cmake-build-debug/CMakeFiles/ocpp.dir
+/Users/kimlong/Coding/ocpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kimlong/Coding/ocpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
